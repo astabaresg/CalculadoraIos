@@ -2,6 +2,8 @@
  * Esta aplicación es una calculadora basada en la calculadora de iOS
  * Se pone en práctica muchos conceptos básicos de React Native en compañía de TS
  * Puedes encontrar más repositorios de guías en mi perfil de github astabaresg
+ * Basado en la información del curso React Native: Aplicaciones nativas para IOS y Android
+ * Del docente Fernando Herrera
  */
 import React from 'react';
 import {Text, View} from 'react-native';
